@@ -1,6 +1,6 @@
 # Precious Onifade
 
-[GitHub repositories](https://github.com/naychurrahl?tab=repositories) | [Download CV](https://github.com/naychurrahl/naychurrahl/blob/main/src/Precious%20Onifade%20cv.pdf)
+[GitHub repositories](https://github.com/naychurrahl?tab=repositories) | [Download CV](https://naychurrahl.github.io/media/pdf/Precious%20Onifade%20CV.pdf) | [Portfolio](https://naychurrahl.github.io)
 
 ---
 
