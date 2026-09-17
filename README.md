@@ -34,7 +34,7 @@ I design software with **security, maintainability, and scalability** baked in f
 - Dynamic website showcasing Phindol's information  
 - Features: About, Services, Partners, CMS
 - Technologies: React, HTML, CSS, Tailwind, Typescript
- [Live](https://phindol.ng) | [Preview](https://phindol.vercel.app)
+- [Live](https://phindol.ng) | [Preview](https://phindol.vercel.app)
 
 ## [HYPA Landing Page](https://github.com/naychurrahl/hapy)
 - Static webpage showcasing NGO's information at a glance
