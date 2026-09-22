@@ -1,6 +1,6 @@
 # Precious Onifade
 
-[GitHub repositories](https://github.com/naychurrahl?tab=repositories) | [Download CV](https://naychurrahl.github.io/media/pdf/Precious%20Onifade%20CV.pdf) | [Portfolio](https://naychurrahl.github.io)
+[GitHub repositories](https://github.com/preciousonifade?tab=repositories) | [Download CV](https://preciousonifade.github.io/media/pdf/Precious%20Onifade%20CV.pdf) | [Portfolio](https://preciousonifade.github.io)
 
 ---
 
@@ -30,19 +30,19 @@ I design software with **security, maintainability, and scalability** baked in f
 - Technologies: PHP, React, MySQL, JWT, REST APIs
 - [Preview](https://naystore.vercel.app)
 
-### [Phindol Insurance Brokers Website](https://github.com/naychurrahl/phindol)
+### [Phindol Insurance Brokers Website](https://github.com/preciousonifade/phindol)
 - Dynamic website showcasing Phindol's information  
 - Features: About, Services, Partners, CMS
 - Technologies: React, HTML, CSS, Tailwind, Typescript
 - [Live](https://phindol.ng) | [Preview](https://phindol.vercel.app)
 
-## [HYPA Landing Page](https://github.com/naychurrahl/hapy)
+## [HYPA Landing Page](https://github.com/preciousonifade/hapy)
 - Static webpage showcasing NGO's information at a glance
 - Features: About, Projects, Partners, Volunteers, Donate
 - Technologies: HTML, CSS, Tailwind, Javascript
 - [Preview](https://hapy-six.vercel.app) | [Alternate](https://hapy-six.vercel.app/alt.html)
 
-### [Rachvic Signatures Platform](https://github.com/naychurrahl/rachvicsignatures)
+### [Rachvic Signatures Platform](https://github.com/preciousonifade/rachvicsignatures)
 - Full-stack shopping platform with **secure authentication and role-based access**  
 - Features: Products, carts, orders, admin dashboard, checkout workflow  
 - Technologies: PHP, React, MySQL, JWT, REST APIs
@@ -59,6 +59,6 @@ B.Tech Computer Science
 - Email: [onifadej@gmail.com](mailto:onifadej@gmail.com)
 - Whatsapp: [2348111384392](https://wa.me/2348111384392)
 
-## [Download CV](https://naychurrahl.github.io/media/pdf/Precious%20Onifade%20CV.pdf)
+## [Download CV](https://preciousonifade.github.io/media/pdf/Precious%20Onifade%20CV.pdf)
 
 ---
